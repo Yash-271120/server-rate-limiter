@@ -7,7 +7,7 @@
 
 
 ## Folder Structure
-root/
+```root/
 ├── src/
 |   ├── classes/
 │   │   ├── mutex.ts
@@ -26,6 +26,7 @@ root/
 │   ├── config.ts
 ├── app.ts
 ├── tsconfig.json
+```
 
 ## steps to get it running
 1. run `npm install`
